@@ -1,0 +1,39 @@
+C:\Users\crism\OneDrive\Рабочий стол\Examenation System\Examenation System\obj\Debug\Examenation System.csprojAssemblyReference.cache
+C:\Users\crism\OneDrive\Рабочий стол\Examenation System\Examenation System\obj\Debug\Examenation_System.Properties.Resources.resources
+C:\Users\crism\OneDrive\Рабочий стол\Examenation System\Examenation System\obj\Debug\Examenation_System.View.EnterForm.resources
+C:\Users\crism\OneDrive\Рабочий стол\Examenation System\Examenation System\obj\Debug\Examenation System.csproj.GenerateResource.cache
+C:\Users\crism\OneDrive\Рабочий стол\Examenation System\Examenation System\obj\Debug\Examenation System.csproj.CoreCompileInputs.cache
+C:\Users\crism\OneDrive\Рабочий стол\Examenation System\Examenation System\bin\Debug\Examenation System.exe.config
+C:\Users\crism\OneDrive\Рабочий стол\Examenation System\Examenation System\bin\Debug\Examenation System.exe
+C:\Users\crism\OneDrive\Рабочий стол\Examenation System\Examenation System\bin\Debug\Examenation System.pdb
+C:\Users\crism\OneDrive\Рабочий стол\Examenation System\Examenation System\obj\Debug\Examenation System.exe
+C:\Users\crism\OneDrive\Рабочий стол\Examenation System\Examenation System\obj\Debug\Examenation System.pdb
+C:\Users\crism\OneDrive\Рабочий стол\Examenation System\Examenation System\obj\Debug\Examenation_System.View.AdministratorForm.resources
+C:\Users\crism\OneDrive\Рабочий стол\Examenation System\Examenation System\obj\Debug\Examenation_System.View.UserEditionForm.resources
+C:\Users\crism\OneDrive\Рабочий стол\Examenation System\Examenation System\obj\Debug\Examenation_System.View.TeacherForm.resources
+C:\Users\crism\OneDrive\Рабочий стол\Examenation System\Examenation System\obj\Debug\Examenation_System.View.ExamEditionForm.resources
+C:\Users\crism\OneDrive\Рабочий стол\Examenation System\Examenation System\obj\Debug\Examenation_System.View.StudentForm.resources
+C:\Users\crism\OneDrive\Рабочий стол\Examenation System\Examenation System\obj\Debug\Examenation_System.View.ExamForm.resources
+C:\Users\crism\OneDrive\Рабочий стол\Examenation System\Examenation System\obj\Debug\Examenation_System.View.CreatNewTestBlockForm.resources
+C:\Users\crism\OneDrive\Рабочий стол\Examenation System\Examenation System\bin\Debug\Newtonsoft.Json.dll
+C:\Users\crism\OneDrive\Рабочий стол\Examenation System\Examenation System\bin\Debug\Newtonsoft.Json.xml
+C:\Users\crism\OneDrive\Рабочий стол\Examenation System\Examenation System\obj\Debug\Examenation System.csproj.CopyComplete
+D:\STEP\Экзамены\Examenation System\bin\Debug\Examenation System.exe.config
+D:\STEP\Экзамены\Examenation System\bin\Debug\Examenation System.exe
+D:\STEP\Экзамены\Examenation System\bin\Debug\Examenation System.pdb
+D:\STEP\Экзамены\Examenation System\bin\Debug\Newtonsoft.Json.xml
+D:\STEP\Экзамены\Examenation System\obj\Debug\Examenation System.csprojAssemblyReference.cache
+D:\STEP\Экзамены\Examenation System\obj\Debug\Examenation_System.Properties.Resources.resources
+D:\STEP\Экзамены\Examenation System\obj\Debug\Examenation_System.View.AdministratorForm.resources
+D:\STEP\Экзамены\Examenation System\obj\Debug\Examenation_System.View.CreatNewTestBlockForm.resources
+D:\STEP\Экзамены\Examenation System\obj\Debug\Examenation_System.View.EnterForm.resources
+D:\STEP\Экзамены\Examenation System\obj\Debug\Examenation_System.View.ExamEditionForm.resources
+D:\STEP\Экзамены\Examenation System\obj\Debug\Examenation_System.View.ExamForm.resources
+D:\STEP\Экзамены\Examenation System\obj\Debug\Examenation_System.View.StudentForm.resources
+D:\STEP\Экзамены\Examenation System\obj\Debug\Examenation_System.View.TeacherForm.resources
+D:\STEP\Экзамены\Examenation System\obj\Debug\Examenation_System.View.UserEditionForm.resources
+D:\STEP\Экзамены\Examenation System\obj\Debug\Examenation System.csproj.GenerateResource.cache
+D:\STEP\Экзамены\Examenation System\obj\Debug\Examenation System.csproj.CoreCompileInputs.cache
+D:\STEP\Экзамены\Examenation System\obj\Debug\Examenation System.csproj.CopyComplete
+D:\STEP\Экзамены\Examenation System\obj\Debug\Examenation System.exe
+D:\STEP\Экзамены\Examenation System\obj\Debug\Examenation System.pdb

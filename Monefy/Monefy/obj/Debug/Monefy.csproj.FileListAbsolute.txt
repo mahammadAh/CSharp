@@ -1,0 +1,87 @@
+D:\STEP\Разработка ПО\Visual studio\Monefy\Monefy\bin\Debug\Monefy.exe.config
+D:\STEP\Разработка ПО\Visual studio\Monefy\Monefy\bin\Debug\Monefy.exe
+D:\STEP\Разработка ПО\Visual studio\Monefy\Monefy\bin\Debug\Monefy.pdb
+D:\STEP\Разработка ПО\Visual studio\Monefy\Monefy\obj\Debug\Monefy.csprojAssemblyReference.cache
+D:\STEP\Разработка ПО\Visual studio\Monefy\Monefy\obj\Debug\Monefy.csproj.CoreCompileInputs.cache
+D:\STEP\Разработка ПО\Visual studio\Monefy\Monefy\obj\Debug\Monefy.exe
+D:\STEP\Разработка ПО\Visual studio\Monefy\Monefy\obj\Debug\Monefy.pdb
+D:\STEP\Разработка ПО\Visual studio\Monefy\Monefy\bin\Debug\Json.Net.dll
+D:\STEP\Разработка ПО\Visual studio\Monefy\Monefy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\STEP\Разработка ПО\Visual studio\Monefy\Monefy\bin\Debug\Newtonsoft.Json.dll
+D:\STEP\Разработка ПО\Visual studio\Monefy\Monefy\bin\Debug\System.Buffers.dll
+D:\STEP\Разработка ПО\Visual studio\Monefy\Monefy\bin\Debug\System.Memory.dll
+D:\STEP\Разработка ПО\Visual studio\Monefy\Monefy\bin\Debug\System.Numerics.Vectors.dll
+D:\STEP\Разработка ПО\Visual studio\Monefy\Monefy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\STEP\Разработка ПО\Visual studio\Monefy\Monefy\bin\Debug\System.Text.Encodings.Web.dll
+D:\STEP\Разработка ПО\Visual studio\Monefy\Monefy\bin\Debug\System.Text.Json.dll
+D:\STEP\Разработка ПО\Visual studio\Monefy\Monefy\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\STEP\Разработка ПО\Visual studio\Monefy\Monefy\bin\Debug\System.ValueTuple.dll
+D:\STEP\Разработка ПО\Visual studio\Monefy\Monefy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\STEP\Разработка ПО\Visual studio\Monefy\Monefy\bin\Debug\Newtonsoft.Json.xml
+D:\STEP\Разработка ПО\Visual studio\Monefy\Monefy\bin\Debug\System.Buffers.xml
+D:\STEP\Разработка ПО\Visual studio\Monefy\Monefy\bin\Debug\System.Memory.xml
+D:\STEP\Разработка ПО\Visual studio\Monefy\Monefy\bin\Debug\System.Numerics.Vectors.xml
+D:\STEP\Разработка ПО\Visual studio\Monefy\Monefy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\STEP\Разработка ПО\Visual studio\Monefy\Monefy\bin\Debug\System.Text.Encodings.Web.xml
+D:\STEP\Разработка ПО\Visual studio\Monefy\Monefy\bin\Debug\System.Text.Json.xml
+D:\STEP\Разработка ПО\Visual studio\Monefy\Monefy\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\STEP\Разработка ПО\Visual studio\Monefy\Monefy\bin\Debug\System.ValueTuple.xml
+D:\STEP\Разработка ПО\Visual studio\Monefy\Monefy\obj\Debug\Monefy.csproj.CopyComplete
+C:\Users\a.mammadzada\Desktop\Мухаммед\Monefy\bin\Debug\Monefy.exe.config
+C:\Users\a.mammadzada\Desktop\Мухаммед\Monefy\bin\Debug\Monefy.exe
+C:\Users\a.mammadzada\Desktop\Мухаммед\Monefy\bin\Debug\Monefy.pdb
+C:\Users\a.mammadzada\Desktop\Мухаммед\Monefy\bin\Debug\Json.Net.dll
+C:\Users\a.mammadzada\Desktop\Мухаммед\Monefy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\a.mammadzada\Desktop\Мухаммед\Monefy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\a.mammadzada\Desktop\Мухаммед\Monefy\bin\Debug\System.Buffers.dll
+C:\Users\a.mammadzada\Desktop\Мухаммед\Monefy\bin\Debug\System.Memory.dll
+C:\Users\a.mammadzada\Desktop\Мухаммед\Monefy\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\a.mammadzada\Desktop\Мухаммед\Monefy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\a.mammadzada\Desktop\Мухаммед\Monefy\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\a.mammadzada\Desktop\Мухаммед\Monefy\bin\Debug\System.Text.Json.dll
+C:\Users\a.mammadzada\Desktop\Мухаммед\Monefy\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\a.mammadzada\Desktop\Мухаммед\Monefy\bin\Debug\System.ValueTuple.dll
+C:\Users\a.mammadzada\Desktop\Мухаммед\Monefy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\a.mammadzada\Desktop\Мухаммед\Monefy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\a.mammadzada\Desktop\Мухаммед\Monefy\bin\Debug\System.Buffers.xml
+C:\Users\a.mammadzada\Desktop\Мухаммед\Monefy\bin\Debug\System.Memory.xml
+C:\Users\a.mammadzada\Desktop\Мухаммед\Monefy\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\a.mammadzada\Desktop\Мухаммед\Monefy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\a.mammadzada\Desktop\Мухаммед\Monefy\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\a.mammadzada\Desktop\Мухаммед\Monefy\bin\Debug\System.Text.Json.xml
+C:\Users\a.mammadzada\Desktop\Мухаммед\Monefy\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\a.mammadzada\Desktop\Мухаммед\Monefy\bin\Debug\System.ValueTuple.xml
+C:\Users\a.mammadzada\Desktop\Мухаммед\Monefy\obj\Debug\Monefy.csprojAssemblyReference.cache
+C:\Users\a.mammadzada\Desktop\Мухаммед\Monefy\obj\Debug\Monefy.csproj.CoreCompileInputs.cache
+C:\Users\a.mammadzada\Desktop\Мухаммед\Monefy\obj\Debug\Monefy.csproj.CopyComplete
+C:\Users\a.mammadzada\Desktop\Мухаммед\Monefy\obj\Debug\Monefy.exe
+C:\Users\a.mammadzada\Desktop\Мухаммед\Monefy\obj\Debug\Monefy.pdb
+C:\Users\crism\OneDrive\Рабочий стол\Мухаммед\Monefy\bin\Debug\Monefy.exe.config
+C:\Users\crism\OneDrive\Рабочий стол\Мухаммед\Monefy\bin\Debug\Monefy.exe
+C:\Users\crism\OneDrive\Рабочий стол\Мухаммед\Monefy\bin\Debug\Monefy.pdb
+C:\Users\crism\OneDrive\Рабочий стол\Мухаммед\Monefy\bin\Debug\Json.Net.dll
+C:\Users\crism\OneDrive\Рабочий стол\Мухаммед\Monefy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\crism\OneDrive\Рабочий стол\Мухаммед\Monefy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\crism\OneDrive\Рабочий стол\Мухаммед\Monefy\bin\Debug\System.Buffers.dll
+C:\Users\crism\OneDrive\Рабочий стол\Мухаммед\Monefy\bin\Debug\System.Memory.dll
+C:\Users\crism\OneDrive\Рабочий стол\Мухаммед\Monefy\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\crism\OneDrive\Рабочий стол\Мухаммед\Monefy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\crism\OneDrive\Рабочий стол\Мухаммед\Monefy\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\crism\OneDrive\Рабочий стол\Мухаммед\Monefy\bin\Debug\System.Text.Json.dll
+C:\Users\crism\OneDrive\Рабочий стол\Мухаммед\Monefy\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\crism\OneDrive\Рабочий стол\Мухаммед\Monefy\bin\Debug\System.ValueTuple.dll
+C:\Users\crism\OneDrive\Рабочий стол\Мухаммед\Monefy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\crism\OneDrive\Рабочий стол\Мухаммед\Monefy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\crism\OneDrive\Рабочий стол\Мухаммед\Monefy\bin\Debug\System.Buffers.xml
+C:\Users\crism\OneDrive\Рабочий стол\Мухаммед\Monefy\bin\Debug\System.Memory.xml
+C:\Users\crism\OneDrive\Рабочий стол\Мухаммед\Monefy\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\crism\OneDrive\Рабочий стол\Мухаммед\Monefy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\crism\OneDrive\Рабочий стол\Мухаммед\Monefy\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\crism\OneDrive\Рабочий стол\Мухаммед\Monefy\bin\Debug\System.Text.Json.xml
+C:\Users\crism\OneDrive\Рабочий стол\Мухаммед\Monefy\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\crism\OneDrive\Рабочий стол\Мухаммед\Monefy\bin\Debug\System.ValueTuple.xml
+C:\Users\crism\OneDrive\Рабочий стол\Мухаммед\Monefy\obj\Debug\Monefy.csproj.AssemblyReference.cache
+C:\Users\crism\OneDrive\Рабочий стол\Мухаммед\Monefy\obj\Debug\Monefy.csproj.CoreCompileInputs.cache
+C:\Users\crism\OneDrive\Рабочий стол\Мухаммед\Monefy\obj\Debug\Monefy.csproj.CopyComplete
+C:\Users\crism\OneDrive\Рабочий стол\Мухаммед\Monefy\obj\Debug\Monefy.exe
+C:\Users\crism\OneDrive\Рабочий стол\Мухаммед\Monefy\obj\Debug\Monefy.pdb
